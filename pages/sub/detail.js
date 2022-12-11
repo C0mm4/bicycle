@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Layout from "../components/Layout";
+import Layout from "../components/Layout2";
 import Image from "next/image";
 
 export default function Detail() {
